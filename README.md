@@ -2,7 +2,7 @@
 programming skills and contribute to the team success by collaborating effectively.
 
 - 👀 I’m interested in developing the design of an application or website with expertise in UI/UX designing.
-- 🌱 I’m currently learning Certification courses on "JavaScript" and "Angular".
+- 🌱 I’m currently learning Certification courses on "JavaScript".
 - 💞️ I’m looking for an full-time opportunity on Full-Stack developer.
 - 📫 How to reach me: email to "psrividyaaa@gmail.com"
 
