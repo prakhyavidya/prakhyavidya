@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Srividya Prakhya a recent graduate student in Computer Science. Open for an opportunity to learn and gain expertise in 
-programming skills and contribute to the team success by collaborating effectively.
+- 👋 Hi, I am a Java developer with over 4 years of experience in the Software development life cycle (SDLC) and certified Mulesoft developer level 1.
 
-- 💞️ I’m actively looking for an Full-Time/New Graduate opportunity.
-- 📫 How to reach me: email to "psrividyaaa@gmail.com"
+- Actively looking for a new opportunity.
+- How to reach me: email to "psrividyaaa@gmail.com"
 
 <!---
 prakhyavidya/prakhyavidya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
